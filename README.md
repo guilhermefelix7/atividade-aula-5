@@ -28,5 +28,5 @@ O projeto apresenta a loja **GameZone Retro**, com informações sobre consoles,
 ```text
 GameZone-Retro/
 ├── index.html
-├── gamezone.png
+├── retro.png
 └── README.md
